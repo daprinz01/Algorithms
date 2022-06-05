@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroSort", "IntroSort\IntroSort.csproj", "{3EB705F2-817F-4535-BE1C-6C575C942CD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EB705F2-817F-4535-BE1C-6C575C942CD0}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{3EB705F2-817F-4535-BE1C-6C575C942CD0}.Debug|anycpu.Build.0 = Debug|anycpu
+		{3EB705F2-817F-4535-BE1C-6C575C942CD0}.Release|anycpu.ActiveCfg = Release|anycpu
+		{3EB705F2-817F-4535-BE1C-6C575C942CD0}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04E15C68-6636-4A08-9B73-DBFFE9D91A2B}
+	EndGlobalSection
+EndGlobal
