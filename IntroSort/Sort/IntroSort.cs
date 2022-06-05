@@ -1,9 +1,9 @@
 ﻿using System;
 namespace IntroSort.Sort
 {
-    public static class IntroSortAlgorithm
+    public static class IntroSort
     {
-		public static void IntroSort(ref int[] data)
+		public static void Sort(ref int[] data)
 		{
 			int partitionSize = Partition(ref data, 0, data.Length - 1);
 
