@@ -29,6 +29,7 @@ namespace BinarySearch.Search
 
         public static object SearchRecursive(int[] inputArray, int key, int min, int max)
         {
+            // Please note that in recursive, you need to pass min as 0 and max as inputArray.Length - 1
             if (min > max)
             {
                 return "Nil";
